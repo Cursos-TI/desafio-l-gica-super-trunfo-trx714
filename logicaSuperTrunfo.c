@@ -20,7 +20,7 @@ int main() {
     int primeiroatributo, segundoatributo, resultado1, resultado2, soma1 = 0, soma2 = 0;
     float somadacarta1, somadacarta2;
     const char *atributos[] = {
-        "", // índice 0 (não será usado)
+        "",
         "População",
         "Área",
         "PIB",
